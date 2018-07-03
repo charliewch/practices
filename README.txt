@@ -1,0 +1,1 @@
+This repo just for some practice scripts.
